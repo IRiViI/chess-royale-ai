@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: chessformer
+Version: 1.0.0
+Summary: AI for the game chess royale
+Home-page: https://github.com/IRiViI/mcts
+Author: Rick Vink
+Author-email: rckvnk@gmail.com
+License: UNKNOWN
+Description: Chessformer
+Keywords: ai,deeplearning,chess,chess royale
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

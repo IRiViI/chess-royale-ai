@@ -1,0 +1,10 @@
+README.md
+setup.py
+chess-royale-ai/__init__.py
+chess-royale-ai/chess-royale-mcts.py
+chess-royale-ai/transformer_network.py
+chessformer.egg-info/PKG-INFO
+chessformer.egg-info/SOURCES.txt
+chessformer.egg-info/dependency_links.txt
+chessformer.egg-info/requires.txt
+chessformer.egg-info/top_level.txt
